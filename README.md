@@ -1,6 +1,6 @@
 <h2 align="center">
 
-  <img alt="Codenation" src=".github/codenation.png" width="200px" />
+  <img alt="Codenation" src="https://res.cloudinary.com/dr05turuf/image/upload/v1587476997/codenation_hdod5y.png" width="200px" />
   <br/>
   🚀 Codenation Challenges
 </h2>
